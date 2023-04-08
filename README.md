@@ -25,3 +25,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Ritik-06101997?ext=heatmap)
+## My Github Stats
+
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=Ritik-06101997)
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ritik-06101997)
+
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-06101997)
