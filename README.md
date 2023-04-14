@@ -6,8 +6,6 @@ Hi there 👋, I am Ritik Kumar
 
 👯 I’m looking to collaborate on Data Science projects where i can utilize and upgrade my skills and looking forward to contribute in Open source.
 
-🤔 I’m looking for help with Data Structure using python language(My side objective)
-
 😄 Pronouns: He/Him
 
 <!--
