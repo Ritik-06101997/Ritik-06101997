@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ritik-06101997)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-06101997&theme=tokyonight)
+[![Ritik's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<Ritik-06101997>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
