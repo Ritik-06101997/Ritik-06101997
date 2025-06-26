@@ -1,10 +1,10 @@
 Hi there 👋, I am Ritik Kumar
 
-🔭 I’m currently working at PWC as Associate 2 as Power Bi Data and Automation Engineer.
+🔭 I’m currently working at PWC as Data Engineering Associate 2.
 
-🌱 I’m currently learning Python, Statistics, ML, SQL, ADF, Azure Synapse, Databricks, Pyspark, Pytest selenium framework
+🌱 I’m currently learning SQL, ADF, Azure Synapse, Databricks, Pyspark.
 
-👯 I’m looking to collaborate on Data Science projects where i can utilize and upgrade my skills and looking forward to contribute in Open source.
+👯 I’m looking to collaborate on Data Engineering projects where i can utilize and upgrade my skills and looking forward to contribute.
 
 😄 Pronouns: He/Him
 
