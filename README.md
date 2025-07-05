@@ -22,12 +22,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/Ritik-06101997?ext=heatmap)
+
+
+<!-- Leetcode Card -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ritik-06101997?ext=heatmap" width="900">
+</p>
+
 ## My Github Stats
 
-![Github Stats 3](https://github-readme-stats.vercel.app/api?username=Ritik-06101997)
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritik-06101997&theme=tokyonight" width="550">
+</p>
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ritik-06101997)
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik-06101997&theme=tokyonight" width="550">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-06101997&theme=tokyonight)
-
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-06101997&theme=tokyonight" width="550">
+</p>
